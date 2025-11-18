@@ -6,3 +6,4 @@ langchain-text-splitters
 sentence-transformers
 groq
 python-dotenv
+gunicorn
