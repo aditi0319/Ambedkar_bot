@@ -1,9 +1,37 @@
 flask
-chromadb
+flask-cors
+gunicorn
+requests
+python-dotenv
+
+# LangChain Ecosystem
 langchain
 langchain-community
+langchain-core
 langchain-text-splitters
+langgraph
+langgraph-prebuilt
+langgraph-checkpoint
 sentence-transformers
+chromadb
+
+# Vector DB & Embeddings
+pypika
+huggingface-hub
+
+# Models
 groq
-python-dotenv
-gunicorn
+transformers
+torch
+tokenizers
+onnxruntime
+
+# Utilities
+numpy
+scikit-learn
+scipy
+tqdm
+pydantic
+pydantic-settings
+typing-inspect
+typing-extensions
