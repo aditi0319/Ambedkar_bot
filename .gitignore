@@ -1,0 +1,26 @@
+# Virtual environment
+ambedkarenv/
+venv/
+.env/
+
+# HuggingFace cache
+hf_cache/
+*.bin
+*.onnx
+*.safetensors
+openvino/
+*.pt
+
+# Chroma DB
+db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large libs
+*.dll
+*.lib
+
+# VSCode
+.vscode/
